@@ -1,5 +1,11 @@
-Engineering Values (каким мы хотим видеть инженера)
+Mindset и Engineering Values
+каким инженером мы хотим видеть выпускника
 ↓
-Engineering Behaviors (как это проявляется в работе)
+Competency Model
+что студент должен уметь делать
 ↓
-Competency Model (чему именно должен научить курс)
+Graduate Profile
+на каком уровне должен уметь к окончанию курса
+↓
+Assessment Model
+как результат подтверждается и оценивается
