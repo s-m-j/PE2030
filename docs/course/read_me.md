@@ -9,3 +9,9 @@ Graduate Profile
 ↓
 Assessment Model
 как результат подтверждается и оценивается
+        ↓
+Course Architecture
+какие ситуации создаёт курс
+        ↓
+Practical Organization
+как студенты действуют в этих ситуациях
