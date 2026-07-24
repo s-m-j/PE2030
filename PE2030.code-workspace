@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../PE2030_pilot/pe2030-air-quality-pilot"
+	},
+	{
+		"path": "../PE2030_pilot/pe2030-air-quality-pilot-facilitator"
+	}
+],
+  "settings": {}
+}
