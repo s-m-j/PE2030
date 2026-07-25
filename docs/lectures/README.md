@@ -135,7 +135,15 @@ docs/lectures/
 | `slides.md` | содержание презентации — слайд за слайдом, с готовыми (не генерируемыми вживую) результатами AI-запросов, вынесенными в `assets/` | преподаватель во время занятия, докладчик |
 | `assets/` | заранее подготовленные артефакты, которые в сценарии выглядят как результат живой генерации (архитектура, код, макеты) — промпт и результат зафиксированы вместе | преподаватель при подготовке и проведении |
 
-Расчёт на то, что все четыре документа проектируются параллельно, а не последовательно: сценарий и слайды задают, что происходит в аудитории и какие данные должны существовать заранее; конспект — что остаётся у студента после занятия для самостоятельной работы. Примеры полных комплектов (Акт I—II): [`01_engineer_in_ai_era/`](01_engineer_in_ai_era/), [`02_deciding_under_conflicting_constraints/`](02_deciding_under_conflicting_constraints/), [`03_defining_the_first_increment/`](03_defining_the_first_increment/), [`04_decisions_expensive_to_change/`](04_decisions_expensive_to_change/), [`05_implementation_without_losing_intent/`](05_implementation_without_losing_intent/).
+Расчёт на то, что все четыре документа проектируются параллельно, а не последовательно: сценарий и слайды задают, что происходит в аудитории и какие данные должны существовать заранее; конспект — что остаётся у студента после занятия для самостоятельной работы.
+
+Полные комплекты первого семестра (Акты I—III, лекции 1–9, «Инженер в новой среде»): [`01_engineer_in_ai_era/`](01_engineer_in_ai_era/), [`02_deciding_under_conflicting_constraints/`](02_deciding_under_conflicting_constraints/), [`03_defining_the_first_increment/`](03_defining_the_first_increment/), [`04_decisions_expensive_to_change/`](04_decisions_expensive_to_change/), [`05_implementation_without_losing_intent/`](05_implementation_without_losing_intent/), [`06_testing_as_risk_management/`](06_testing_as_risk_management/), [`07_safe_delivery/`](07_safe_delivery/), [`08_interpreting_data_after_release/`](08_interpreting_data_after_release/), [`09_revisiting_the_original_plan/`](09_revisiting_the_original_plan/).
+
+Полные комплекты второго семестра, Акт IV (лекции 10–13, «Система переживает первоначальный проект»): [`10_understanding_before_changing/`](10_understanding_before_changing/), [`11_refactor_migrate_or_leave/`](11_refactor_migrate_or_leave/), [`12_designing_for_failure/`](12_designing_for_failure/), [`13_security_as_engineering_activity/`](13_security_as_engineering_activity/).
+
+Полные комплекты второго семестра, Акт V (лекции 14–18, «Система становится социотехнической») — курс завершён целиком: [`14_organizational_memory/`](14_organizational_memory/), [`15_delegating_to_agents/`](15_delegating_to_agents/), [`16_conways_law/`](16_conways_law/), [`17_professional_responsibility/`](17_professional_responsibility/), [`18_becoming_an_engineer/`](18_becoming_an_engineer/).
+
+Все 18 лекций курса, оба семестра, продолжают один сквозной сюжет (муниципальный экологический центр и система доверенного мониторинга качества воздуха) без разрывов — от первой жалобы жителей в лекции 1 до итоговой рефлексии в лекции 18.
 
 Внутри каталога лекции файлы ссылаются друг на друга по коротким относительным именам (`model.md`, `script.md`, `assets/ai_proposal.md`), а не по префиксу `NN_slug_...` — префикс лекции задаёт сам каталог.
 
